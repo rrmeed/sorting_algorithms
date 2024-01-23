@@ -17,4 +17,3 @@ int main(void)
     print_array(array, n);
     return (0);
 }
-

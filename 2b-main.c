@@ -18,4 +18,3 @@ int main(void)
     check_array(array, n);
     return (0);
 }
-
